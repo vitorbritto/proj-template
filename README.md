@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/vitorbritto/readme-template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://static.vecteezy.com/system/resources/previews/020/244/109/original/thundercats-logo-design-free-vector.jpg" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">README Template</h3>
