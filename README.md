@@ -62,10 +62,9 @@
 
 This section list the major frameworks/libraries used to bootstrap the project.
 
-* [Next.js]()
 * [React.js]()
-* [Nest.js]()
 * [MaterialUI]()
+* ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
